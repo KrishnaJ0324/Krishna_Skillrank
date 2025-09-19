@@ -1,0 +1,13 @@
+# Python backend specific
+/backend/venv/
+/backend/__pycache__/
+/backend/.env
+/backend/job_portal.db
+
+# Node frontend specific
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env*
+
+# General
+.DS_Store
